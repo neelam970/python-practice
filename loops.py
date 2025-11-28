@@ -104,5 +104,16 @@ word="Neelam"
 for i in reversed(word):
   print(i)
 
-# Printing prime numbers in a range.
+
   
+# Print numbers from 1 to 20.
+
+# 2️⃣ Print even numbers between 1 and 50.
+# 3️⃣ Print odd numbers between 1 and 50.
+# 4️⃣ Print the multiplication table of a given number.
+# 5️⃣ Print the sum of first n natural numbers.
+# 6️⃣ Count the number of digits in a given number.
+# 7️⃣ Reverse a given number using loops.
+# 8️⃣ Find the factorial of a given number.
+# 9️⃣ Find the sum of digits of a given number.
+# 🔟 Print Fibonacci series up to n terms (no nested loop needed).
